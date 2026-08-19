@@ -30,7 +30,7 @@ export function Temario() {
           <Accordion
             type="single"
             collapsible
-            defaultValue={modulos[0]?.id}
+            defaultValue={modulos[0]!.id}
             className="space-y-4"
           >
             {modulos.map((m, i) => (
