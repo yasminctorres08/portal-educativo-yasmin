@@ -53,11 +53,12 @@ export const recursos: Recurso[] = [
   },
   {
     id: "infografia-proceso",
-    titulo: "Infografía: proceso de aprendizaje",
+    titulo: "Infografía: Tema 1 — Estrategias y prácticas gerenciales",
     descripcion:
-      "Resumen visual de las etapas de un proceso formativo, pensado para proyectar o imprimir.",
+      "Resumen visual del Tema 1 con los puntos clave de planificación, decisiones e indicadores gerenciales.",
     categoria: "Infografías",
     tipo: "PDF",
+    href: "https://drive.google.com/file/d/1nmW88W37kODy8PdpGCMuu8317fbe7MCF/view?usp=drive_link",
   },
   {
     id: "infografia-organizacion",
@@ -69,11 +70,12 @@ export const recursos: Recurso[] = [
   },
   {
     id: "clase-intro",
-    titulo: "Clase introductoria",
+    titulo: "Presentación: Tema 1 — Estrategias y prácticas gerenciales",
     descripcion:
-      "Presentación de apertura de módulo con estructura, expectativas y dinámica de trabajo.",
+      "Presentación del Tema 1 con los conceptos clave de planificación estratégica, toma de decisiones, indicadores de gestión y casos prácticos.",
     categoria: "Clases",
-    tipo: "Video",
+    tipo: "Enlace",
+    href: "https://docs.google.com/presentation/d/1W5xRak8DGMkmJlxYODAjHLbcx944xld0/edit?usp=sharing",
   },
   {
     id: "clase-taller",
