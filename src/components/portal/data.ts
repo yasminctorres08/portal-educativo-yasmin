@@ -27,6 +27,15 @@ export const categorias: RecursoCategoria[] = [
 
 export const recursos: Recurso[] = [
   {
+    id: "estrategias-gerenciales",
+    titulo: "Estrategias y prácticas gerenciales",
+    descripcion:
+      "Material del módulo: planificación estratégica, toma de decisiones, indicadores de gestión y casos prácticos de análisis organizacional.",
+    categoria: "Material didáctico",
+    tipo: "PDF",
+    href: "https://drive.google.com/file/d/1q-2-eXCEEfEO5JmK964369ExmuKeje0s/view?usp=drive_link",
+  },
+  {
     id: "guia-estudio",
     titulo: "Guía de estudio base",
     descripcion:
